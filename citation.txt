@@ -1,0 +1,7 @@
+@inproceedings{REPO049,
+    author = "Wang, Zhaoguo and Zhou, Zhou and Yang, Yicun and Ding, Haoran and Hu, Gansen and Ding, Ding and Tang, Chuzhe and Chen, Haibo and Li, Jinyang",
+    booktitle = "Proceedings of the 2022 International Conference on Management of Data",
+    pages = "94--107",
+    title = "{Wetune: Automatic Discovery and Verification of Query Rewrite Rules}",
+    year = "2022"
+}
